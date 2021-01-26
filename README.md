@@ -1,24 +1,17 @@
 # Quadcopter-Flight-Controller
-Software for Quadcopter Flight Controller, PID constants will need to be tuned for individual quads.
-
- By: Conley Price
-     Description: This is for a arduino mega 2560 board, 
-       this software is modeled after "http://www.brokking.net/ymfc-al_main.html".
-       
-   Video: video will be uploaded to youtube soon
    
+FlightControllerMock1.0:
+- Is the main software to make a quadcopter fly
+- This software is made for a quadcopter with 2560 mega arduino board, as the flight controller
    
-   Hardware:
+IMU_Board
+     - Is a program that will print the pitch and roll angle of the IMU accuratly in 3-D space
    
-   MicroCOntroller/FlightController: arduino mega 2560 board
-   
-   MPU: MPU 6050
-   
-   Battery: Tattu 3s 11.1V
-   
-   Frame: F450 frame
-   
-   Motors: QWinOut A2212 1000KV Brushless Outrunner Motor 13T
-   
-   ESC: QWinOut 2-4S 30A RC Brushless ESC Simonk
- 
+ Kill_Switch_Test:
+     - Test the kill switch for channel 8 of the transmitter
+     
+ Test_ESC_WithServo:
+     - Test each motor with the servo library
+     
+TransmitterOutputAll:
+   - Print all the values from recieved from the transmitter
