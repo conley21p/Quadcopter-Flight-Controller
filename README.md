@@ -8,10 +8,17 @@ Software for Quadcopter Flight Controller, PID constants will need to be tuned f
    Video: video will be uploaded to youtube soon
    
    
-   Hardware: MicroCOntroller/FlightController: arduino mega 2560 board
-             MPU: MPU 6050
-             Battery: Tattu 3s 11.1V
-             Frame: F450 frame
-             Motors: QWinOut A2212 1000KV Brushless Outrunner Motor 13T
-             ESC: QWinOut 2-4S 30A RC Brushless ESC Simonk
+   Hardware:
+   
+   MicroCOntroller/FlightController: arduino mega 2560 board
+   
+   MPU: MPU 6050
+   
+   Battery: Tattu 3s 11.1V
+   
+   Frame: F450 frame
+   
+   Motors: QWinOut A2212 1000KV Brushless Outrunner Motor 13T
+   
+   ESC: QWinOut 2-4S 30A RC Brushless ESC Simonk
  
