@@ -6,6 +6,8 @@ Software for Quadcopter Flight Controller, PID constants will need to be tuned f
        this software is modeled after "http://www.brokking.net/ymfc-al_main.html".
        
    Video: video will be uploaded to youtube soon
+   
+   
    Hardware: MicroCOntroller/FlightController: arduino mega 2560 board
              MPU: MPU 6050
              Battery: Tattu 3s 11.1V
