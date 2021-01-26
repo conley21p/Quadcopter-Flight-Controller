@@ -15,3 +15,5 @@ IMU_Board
      
 TransmitterOutputAll:
 - Print all the values from recieved from the transmitter
+
+![](quadcopter.jpg)
